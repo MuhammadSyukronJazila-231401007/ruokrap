@@ -18,6 +18,22 @@ Pada level 2, _map_ akan melakukan _spawn_ koin secara acak dan pemain diminta u
 Pada level 3, _hostile_ akan muncul yang dapat menyerang pemain, pemain harus nge-_kill_ itu dengan menembakkannya untuk menyelesaikan level.
 
 Selanjutnya, pada mode _endless_, serupa dengan level 1, namun mode ini tidak akan berakhir sampai karakter pemain mati terkena _obstacle_.
+
+## Link Video
+
+
+
+## Screenshots
+![text](screenshot/1.png)
+![text](screenshot/2.png)
+![text](screenshot/3.png)
+![text](screenshot/4.png)
+![text](screenshot/5.png)
+![text](screenshot/6.png)
+![text](screenshot/7.png)
+![text](screenshot/8.png)
+![text](screenshot/9.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
