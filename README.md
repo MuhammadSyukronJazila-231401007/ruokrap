@@ -21,7 +21,7 @@ Selanjutnya, pada mode _endless_, serupa dengan level 1, namun mode ini tidak ak
 
 ## Link Video
 
-
+https://drive.google.com/file/d/1FD1Kh5W-ZqCOJhFG7KnyfzXJFtUnnkVf/view?usp=sharing
 
 ## Screenshots
 ![text](screenshot/1.png)
