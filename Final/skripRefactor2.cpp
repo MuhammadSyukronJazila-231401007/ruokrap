@@ -321,7 +321,7 @@ main(){
     // lvl 1
     while (!isDead && nyawa > 0 && level == 1)
     {
-        if(skor == 10){
+        if(skor == 100){
             nextLevel();
             break;
         }
@@ -349,7 +349,7 @@ main(){
     // lvl 2
     while (!isDead && nyawa > 0 && level == 2)
     {
-        if(skor == 1){
+        if(skor == 5){
            nextLevel();
            break;
         }
@@ -374,9 +374,9 @@ main(){
     p1.posY=14;
     p1.posX=29;
 
-	while (!isDead && nyawa > 0 && level == 3)
+    while (!isDead && nyawa > 0 && level == 3)
     {
-        if(skor > 1){
+        if(skor > 4){
             level++;
             e1.clear();
             break;
@@ -428,7 +428,7 @@ main(){
         green();
         cout << inGameuUI;
         int i =9;
-        for(const string &str: levelCompletedinUI){
+        for(const string &str: levelCompletedinAll){
             gotoxy(19,i); cout << str<< endl;
             i++;
         }
